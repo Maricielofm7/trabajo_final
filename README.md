@@ -9,7 +9,6 @@ Ingeniería de Informática y Sistemas
 Taller de Software II
 ## Bloque: 
 FC-PREINF03A1T
-## AdoptMe
 ## Autores:
 ARELLANO ASCA, INGRID MADELEY
 FLORES MORI, MARICIELOQUISPE 
