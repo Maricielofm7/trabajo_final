@@ -1,5 +1,5 @@
-# trabajo_final
-Titulo
+# Trabajo Final
+## Título:
 Adopt me
 
 ## Universidad San Ignacio de Loyola
@@ -12,8 +12,8 @@ FC-PREINF03A1T
 ## AdoptMe
 ## Autores:
 ARELLANO ASCA, INGRID MADELEY
-FLORES MORI, MARICIELO
-QUISPE CARHUAPOMA, SHARON CRISTELL
+FLORES MORI, MARICIELOQUISPE 
+CARHUAPOMA, SHARON CRISTELL
 
 ## Nombre del Producto:
 
