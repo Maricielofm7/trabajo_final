@@ -30,7 +30,7 @@ AdoptMe es una plataforma (sitio web) que funciona como una herramienta dedicada
 
 ## Funcionalidades:
 
-Plataforma (sitio web) que cuenta con 6 secciones principales: Adoptar, Doy en Adopción, Contacto,  Campañas, Blog y AdoptMe.
+Plataforma (sitio web) que cuenta con 6 secciones principales: Adoptar, Doy en Adopción, Contacto,  Campañas, Blog y AdoptMe.              
 Adoptar:
 Presenta una lista de animales domésticos en un respectivo estado de adopción: (Urgente, Adoptado, En Adopcción), al hacer click en un botón (estado del animal),  redirigirá a una nueva página, la cual tendrá el perfil del animal entre ellos: (nombre, datos personales, fotos, salud, personalidad, historia, requisitos para la adopción, información de donaciones para el animal), adicionalmente cuenta con un botón para confirmar la adopción.
  
