@@ -42,9 +42,9 @@ Contacto:
 Contiene un formulario de dudas y consultas que le solicita al usuario ciertos datos personales (nombres, apellidos, correo electrónico, asunto, mensaje, en adición un botón de acepto términos y condiciones y finalmente, enviar).
  
 Campañas:
-Presenta anuncios de campañas de concientización recientes o programadas para una fecha a futuro. 
+Presenta anuncios de campañas de concientización recientes o programadas para una fecha a futuro.                                                
 Blog:
-Cuenta con artículos escritos por los mismos usuarios de acuerdo a las experiencias vividas en lo que se refiere al reporte de animales como el proceso de adopción. 
+Cuenta con artículos escritos por los mismos usuarios de acuerdo a las experiencias vividas en lo que se refiere al reporte de animales como el proceso de adopción.                                                                                                                      
 AdoptMe:
 Presenta las secciones de definición de la empresa, misión, visión y una sección de preguntas frecuentes.
 
