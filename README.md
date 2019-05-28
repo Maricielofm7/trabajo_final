@@ -4,15 +4,15 @@ Adopt me
 
 ## Universidad San Ignacio de Loyola
 FACULTAD DE INGENIERÍA
-Ingeniería de Informática y Sistemas
+-Ingeniería de Informática y Sistemas
 ## Curso:
 Taller de Software II
 ## Bloque: 
 FC-PREINF03A1T
 ## Autores:
-ARELLANO ASCA, INGRID MADELEY
-FLORES MORI, MARICIELOQUISPE 
-CARHUAPOMA, SHARON CRISTELL
+-ARELLANO ASCA, INGRID MADELEY
+-FLORES MORI, MARICIELOQUISPE 
+-CARHUAPOMA, SHARON CRISTELL
 
 ## Nombre del Producto:
 
