@@ -1,6 +1,4 @@
 # Trabajo Final
-## Título:
-Adopt me
 
 ## Universidad San Ignacio de Loyola
 FACULTAD DE INGENIERÍA
@@ -9,9 +7,9 @@ FACULTAD DE INGENIERÍA
 Taller de Software II
 ## Bloque: 
 FC-PREINF03A1T
-## Autores:
-ARELLANO ASCA, INGRID MADELEY 
-FLORES MORI, MARICIELO 
+## Integrantes:
+ARELLANO ASCA, INGRID MADELEY                                                                                                             
+FLORES MORI, MARICIELO                                                                                                                      
 QUISPE CARHUAPOMA, SHARON CRISTELL
 
 ## Nombre del Producto:
