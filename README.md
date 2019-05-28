@@ -1,7 +1,8 @@
 # Trabajo Final
 
 ## Universidad San Ignacio de Loyola
-FACULTAD DE INGENIERÍA                                                                                                         -.----.Ingeniería de Informática y Sistemas
+FACULTAD DE INGENIERÍA                                                                                                                    
+INGENIERÍA INFORMÁTICA Y DE SISTEMAS
 ## Curso:
 Taller de Software II
 ## Bloque: 
